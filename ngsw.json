@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779954761359,
+  "timestamp": 1779954900407,
   "index": "/nomades-demo-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/nomades-demo-pwa/favicon.ico",
         "/nomades-demo-pwa/index.html",
-        "/nomades-demo-pwa/main-X3SG6KYH.js",
+        "/nomades-demo-pwa/main-4NVWGWVO.js",
         "/nomades-demo-pwa/manifest.webmanifest",
         "/nomades-demo-pwa/styles-5INURTSO.css"
       ],
@@ -50,8 +50,8 @@
     "/nomades-demo-pwa/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/nomades-demo-pwa/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/nomades-demo-pwa/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/nomades-demo-pwa/index.html": "5e6241a85d6273c8c26387cd7107aec3504fdcb7",
-    "/nomades-demo-pwa/main-X3SG6KYH.js": "16ae817df3b27d98c587eb250ec49edd3658fbb7",
+    "/nomades-demo-pwa/index.html": "ca83a86da3cc800a269cf3831e03d5f793a8f1a5",
+    "/nomades-demo-pwa/main-4NVWGWVO.js": "4cf866249cacaa4cd66baf3bf9899d23d069bb06",
     "/nomades-demo-pwa/manifest.webmanifest": "666df4bca1c1e073961873de248873533a641939",
     "/nomades-demo-pwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
